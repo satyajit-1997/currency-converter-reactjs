@@ -63,6 +63,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+
+<img width="916" alt="image" src="https://github.com/satyajit-1997/currency-converter-reactjs/assets/82964946/6a850569-c093-4730-8cb7-e89e49da4ed5">
+
+
+
+
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
